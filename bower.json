@@ -1,0 +1,18 @@
+{
+  "name": "ep3-ep4",
+  "description": "EP3-EP4",
+  "main": "index.js",
+  "authors": [
+    "Diana Diaz <dedo130801@upemor.edu.mx>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
